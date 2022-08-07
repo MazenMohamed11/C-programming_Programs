@@ -7,7 +7,7 @@
 #define ZERO_MOVE 0
 
 char position[3][3]={{'1','2','3'},
-	                 {'4','5','6'},
+	             {'4','5','6'},
                      {'7','8','9'}};
 
 int move = ZERO_MOVE ; // we can make 9 moves at maximum					 
